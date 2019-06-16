@@ -1,1 +1,1 @@
-# sitecore-xc
+# sitecore-xc-composersync
