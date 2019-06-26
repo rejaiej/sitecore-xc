@@ -12,7 +12,7 @@
         "Environments": [
           {
             "Name": "DEV",
-            "BaseUri": "",
+            "BaseUri": "https://commerceauthoring.sc9-sb.qa/api",
             "ShopName": "CommerceEngineDefaultStorefront",
             "Environment": "HabitatAuthoring",
             "ShopperId": "",
@@ -26,7 +26,7 @@
           },
           {
             "Name": "QA",
-            "BaseUri": "",
+            "BaseUri": "https://commerceauthoring.sc9-sb.qa/api",
             "ShopName": "CommerceEngineDefaultStorefront",
             "Environment": "HabitatAuthoring",
             "ShopperId": "",
@@ -40,7 +40,7 @@
           },
           {
             "Name": "PROD",
-            "BaseUri": "",
+            "BaseUri": "https://commerceauthoring.sc9-sb.qa/api",
             "ShopName": "CommerceEngineDefaultStorefront",
             "Environment": "HabitatAuthoring",
             "ShopperId": "",
