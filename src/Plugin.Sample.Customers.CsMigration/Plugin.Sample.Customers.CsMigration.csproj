@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Sitecore.Commerce.Plugin.Customers" Version="3.0.*" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.5.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
